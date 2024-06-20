@@ -338,6 +338,9 @@ a:hover{
     grid-template-columns: repeat(1, 1fr);
     gap: 35px;
   }
+  .footer-cp .cp a{
+    padding-right: 10px;
+  } 
 } 
 
 @media (max-width: 400px){
@@ -350,6 +353,9 @@ a:hover{
     background-color: #F2F2F2;
     height:auto;
   }
+  .footer-cp .cp a{
+    padding-right: 10px;
+  } 
   .banner{
     object-fit: cover;
   }
@@ -363,5 +369,6 @@ a:hover{
   } 
   .carbon .bts{
     font-size:14px;
-  } 
+  }
+ 
 } 
