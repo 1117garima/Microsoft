@@ -266,7 +266,7 @@ a:hover{
 .footer-cp .left{
   display: flex;
   color:#616161;
-  padding-right: 80px;
+  padding-right: 40px;
 }
 .footer-cp .cp a{
   text-decoration: none;
@@ -322,7 +322,7 @@ a:hover{
 
 @media (max-width: 460px){
   main{
-    padding:20px 60px;
+    padding:20px 50px;
   }
   .footer .info{
     grid-template-columns: repeat(2, 1fr);
